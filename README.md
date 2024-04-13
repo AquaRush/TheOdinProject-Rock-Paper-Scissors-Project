@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-[Live Demo Preview](link here)
+[Live Demo Preview](https://aquarush.github.io/TheOdinProject-Rock-Paper-Scissors-Project/)
 
 ## Project Assignment
 
